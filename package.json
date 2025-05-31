@@ -1,0 +1,24 @@
+{
+  "name": "portfolio-backend",
+  "version": "1.0.0",
+  "description": "Backend portfolio website for Aditya Shekhawat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASinghShekhawat/portfolio-backend.git"
+  },
+  "author": "Aditya Shekhawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASinghShekhawat/portfolio-backend/issues"
+  },
+  "homepage": "https://github.com/ASinghShekhawat/portfolio-backend#readme",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.8",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
